@@ -167,7 +167,6 @@ class Main extends React.Component {
           </ul>
           {close}
         </article>
-        <div id="tugify-widget"></div><script src="https://cloud.tugify.com/widget.js"></script><script>Tugify({inline: false, url: 'https://tugify.com/embed/sranjan',buttonText: '', buttonColor: '#209cee' ,}).render('#tugify-widget');</script>
       </div>
     )
   }
